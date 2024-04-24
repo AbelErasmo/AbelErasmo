@@ -11,7 +11,7 @@
 
 <h2>Stats</h2>
 
-![Erasmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelErasmo&show_icons=true&theme=radical)
+![Erasmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelErasmo/&show_icons=true&theme=radical)
 
 <h2>Tecnologias que uso no meu dia-a-dia</h2>
 
