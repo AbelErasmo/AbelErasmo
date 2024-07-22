@@ -50,7 +50,13 @@
 
 ## Sobre mim
 
-### Apaixonado por tecnologia, buscando sempre aprender com o objectivo de trazer soluções tecnológicas inovadoras, acredito que a melhor arte que o ser humano tem, é a imaginação.
+### Sou Desenvolvedor Full Stack com 4 anos de experiência, dedicado ao aprendizado contínuo e à melhoria na indústria de tecnologia. Estudo diariamente para manter minhas habilidades afiadas e actualizadas.
+
+### Ao longo da minha carreira, ensinei programação, de modo, a capacitar novas gerações de desenvolvedores. Minha experiência inclui trabalhos em projectos pessoais, onde apliquei e expandi meu conhecimento em diversos contextos.
+
+### Num futuro breve como desenvolvedor pretendo criar uma plataforma de cursos, acredito que será a primeira no país, onde demonstro minha paixão por educação e tecnologia. Com uma abordagem holística, frequentemente crio projetos inteiros do zero, abrangendo todas as etapas de desenvolvimento: UI/UX, frontend, backend, arquitetura de software, deployment, testes.
+
+### Actualmente, estou trabalhando na criação de um blog-pessoal inovador, lidando com todos os aspectos de seu desenvolvimento. Estou sempre em busca de novas oportunidades para aprender e crescer, trazendo inovação e excelência para cada projecto que realizo. Se está procurando um profissional dedicado e versátil, estou pronto para contribuir com minha expertise e paixão pela tecnologia.
 
 <h2>Contactos</h2>
 
