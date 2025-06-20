@@ -1,5 +1,5 @@
 
-## Olá meu nome é <b>Erasmo Abel</b>! Eu sou Engenheiro de Software🖖
+## Olá meu nome é <b>Erasmo Abel</b>! e sou Engenheiro de Software🖖
 <i>Aprenda a trabalhar e a esperar...</i>
 
 <br />
