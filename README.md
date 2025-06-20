@@ -35,9 +35,6 @@
 <br/>
 <br/>
 
-## 🌟Gráfico de Contribuições Recentes
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AbelErasmo&theme=radical)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelErasmo)](https://github.com/AbelErasmo/github-readme-stats)
 
 <h2>Operating Systems</h2>
@@ -54,9 +51,9 @@
 
 ## Aboout Me
 
-<p style="text-align: justify; font-size: 18px;"> I am a passionate developer and student of technology, with a strong focus on solving complex challenges and proposing innovative solutions. My experience encompasses backend development, modular design, and digital security, where I apply efficient methodologies to create scalable systems. I study daily to keep my skills sharp and up-to-date, facing real challenges in personal and professional projects.</p>
+<p style="text-align: justify; font-size: 20px;"> I am a passionate developer and student of technology, with a strong focus on solving complex challenges and proposing innovative solutions. My experience encompasses backend development, modular design, and digital security, where I apply efficient methodologies to create scalable systems. I study daily to keep my skills sharp and up-to-date, facing real challenges in personal and professional projects.</p>
 
-<p style="text-align: justify; font-size: 18px;">I constantly seek new opportunities to learn and grow, bringing excellence and innovation to each solution I develop. A dedicated and versatile professional, I am ready to contribute with my expertise in the design and construction of technological systems that positively impact society.</p>
+<p style="text-align: justify; font-size: 20px;">I constantly seek new opportunities to learn and grow, bringing excellence and innovation to each solution I develop. A dedicated and versatile professional, I am ready to contribute with my expertise in the design and construction of technological systems that positively impact society.</p>
 
 <h2>Contact</h2>
 
