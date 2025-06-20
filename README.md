@@ -1,5 +1,5 @@
 
-## Olá meu nome é <b>Erasmo Abel</b>! e sou Engenheiro de Software🖖
+## Hello, my name is <b>Erasmo Abel</b>! I am Software Engineer🖖
 <i>Aprenda a trabalhar e a esperar...</i>
 
 <br />
@@ -13,7 +13,7 @@
 
 ![Erasmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelErasmo&show_icons=true&theme=radical)
 
-<h2>Tecnologias que uso no meu dia-a-dia</h2>
+<h2>Tecnologies of my daily</h2>
 
 <div style="display: inline-block">
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -35,9 +35,12 @@
 <br/>
 <br/>
 
+## 🌟Gráfico de Contribuições Recentes
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbelErasmo&theme=radical)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelErasmo)](https://github.com/AbelErasmo/github-readme-stats)
 
-<h2>Sistemas Operativos</h2>
+<h2>Operating Systems</h2>
 
 <div style="display: inline-block">
     <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -49,15 +52,15 @@
 
 <br/>
 
-## Sobre mim
+## Aboout Me
 
-<p style="text-align: justify; font-size: 18px;"> Sou Desenvolvedor Full Stack com 4 anos de experiência, dedicado ao aprendizado contínuo e à melhoria na indústria de tecnologia. Estudo diariamente para manter minhas habilidades afiadas e actualizadas. Ao longo da minha carreira, ensinei programação, de modo, a capacitar novas gerações de desenvolvedores. Minha experiência inclui trabalhos em projectos pessoais, onde apliquei e expandi meu conhecimento em diversos contextos. </p>
+<p style="text-align: justify; font-size: 18px;"> I am a passionate developer and student of technology, with a strong focus on solving complex challenges and proposing innovative solutions. My experience encompasses backend development, modular design, and digital security, where I apply efficient methodologies to create scalable systems. I study daily to keep my skills sharp and up-to-date, facing real challenges in personal and professional projects.</p>
 
-<p style="text-align: justify; font-size: 18px;"> Num futuro breve como desenvolvedor pretendo criar uma plataforma de cursos, acredito que será a primeira no país, onde demonstro minha paixão por educação e tecnologia. Com uma abordagem holística, frequentemente crio projetos inteiros do zero, abrangendo todas as etapas de desenvolvimento: UI/UX, frontend, backend, arquitetura de software, deployment, testes. Actualmente, estou trabalhando na criação de um blog-pessoal inovador, lidando com todos os aspectos de seu desenvolvimento. Estou sempre em busca de novas oportunidades para aprender e crescer, trazendo inovação e excelência para cada projecto que realizo. Se está procurando um profissional dedicado e versátil, estou pronto para contribuir com minha expertise e paixão pela tecnologia.</p>
+<p style="text-align: justify; font-size: 18px;">I constantly seek new opportunities to learn and grow, bringing excellence and innovation to each solution I develop. A dedicated and versatile professional, I am ready to contribute with my expertise in the design and construction of technological systems that positively impact society.</p>
 
-<h2>Contactos</h2>
+<h2>Contact</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erasmosibinde@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erasmosibinde@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Engenheiro_Software)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](erasmo_dev)
 
