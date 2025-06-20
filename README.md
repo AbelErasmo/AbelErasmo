@@ -1,5 +1,5 @@
 
-## Hello, my name is <b>Erasmo Abel</b>! I am Software Engineer🖖
+## Hello, my name is <b>Erasmus Abel</b>! I am Software Engineer🖖
 <i>Aprenda a trabalhar e a esperar...</i>
 
 <br />
