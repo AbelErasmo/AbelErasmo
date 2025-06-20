@@ -49,7 +49,7 @@
 
 <br/>
 
-## Aboout Me
+## About Me
 
 <p style="text-align: justify; font-size: 20px;"> I am a passionate developer and student of technology, with a strong focus on solving complex challenges and proposing innovative solutions. My experience encompasses backend development, modular design, and digital security, where I apply efficient methodologies to create scalable systems. I study daily to keep my skills sharp and up-to-date, facing real challenges in personal and professional projects.</p>
 
