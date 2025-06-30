@@ -35,7 +35,9 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelErasmo)](https://github.com/AbelErasmo/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelErasmo)](https://github.com/AbelErasmo/github-readme-stats)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelErasmo&layout=compact&theme=radical)
+
 
 <h2>Operating Systems</h2>
 
