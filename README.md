@@ -9,6 +9,13 @@
 <!-- <https://dev.to/envoy_/150-badges-for-github-pnk#skills> -->
 <!-- <https://github.com/anuraghazra/github-readme-stats#github-stats-card> -->
 
+![Feito com](https://img.shields.io/badge/feito%20com-PHP%20|%20MySQL%20|%20JS-blue)
+[![vercel](https://img.shields.io/badge/deploy-Vercel-black?logo=vercel)](https://sistema-de-denuncias-six.vercel.app)
+
+### 🔗 Destaque: [Sistema de Denúncias](https://github.com/AbelErasmo/sistema-de-denuncias)
+> Aplicação web para denúncias anônimas com upload de evidências, geração de protocolo e painel administrativo protegido.
+
+
 <h2>Stats</h2>
 
 ![Erasmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelErasmo&show_icons=true&theme=radical)
@@ -37,7 +44,6 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelErasmo)](https://github.com/AbelErasmo/github-readme-stats)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelErasmo&layout=compact&theme=radical)
-
 
 <h2>Operating Systems</h2>
 
