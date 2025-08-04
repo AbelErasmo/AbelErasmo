@@ -58,7 +58,7 @@
 
 <p style="text-align: justify; font-size: 20px;"> I am a passionate developer and student of technology, with a strong focus on solving complex challenges and proposing innovative solutions. My experience encompasses backend development, modular design, and digital security, where I apply efficient methodologies to create scalable systems. I study daily to keep my skills sharp and up-to-date, facing real challenges in personal and professional projects.</p>
 
-<p style="text-align: justify; font-size: 20px;">I constantly seek new opportunities to learn and grow, bringing excellence and innovation to each solution I develop. A dedicated and versatile professional, I am ready to contribute with my expertise in the design and construction of technological systems that positively impact society.</p>
+<p style="text-align: justify; font-size: 20px">I constantly seek new opportunities to learn and grow, bringing excellence and innovation to each solution I develop. A dedicated and versatile professional, I am ready to contribute with my expertise in the design and construction of technological systems that positively impact society.</p>
 
 <h2>Contact</h2>
 
