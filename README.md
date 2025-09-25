@@ -60,7 +60,7 @@
 
 <p style="text-align: justify; font-size: 20px">I constantly seek new opportunities to learn and grow, bringing excellence and innovation to each solution I develop. A dedicated and versatile professional, I am ready to contribute with my expertise in the design and construction of technological systems that positively impact society.</p>
 
-<h2>Contact</h2>
+<h2>Contact Me</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erasmosibinde@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Engenheiro_Software)
