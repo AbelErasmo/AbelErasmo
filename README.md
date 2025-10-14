@@ -19,7 +19,7 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=AbelErasmo&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=AbelErasmo&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h2>Tecnologies of my daily</h2>
 
