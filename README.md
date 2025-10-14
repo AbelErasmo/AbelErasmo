@@ -17,6 +17,12 @@
 
 ![Erasmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelErasmo&show_icons=true&theme=radical&cache_seconds=0)
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AbelErasmo&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbelErasmo&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 <h2>Tecnologies of my daily</h2>
 
 <div style="display: inline-block">
