@@ -43,7 +43,7 @@
 
 <br/>
 <br/>
-
+<!--
 <h2>Operating Systems</h2>
 
 <div style="display: inline-block">
@@ -53,7 +53,7 @@
     <img align="center" alt="mcos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
     <img align="center" alt="mcos" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
-
+--->
 <br/>
 
 ## About Me
